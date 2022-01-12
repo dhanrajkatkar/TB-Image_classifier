@@ -4,7 +4,11 @@ This is a tuberculosis detection task repository created for Longevity Scientifi
 
 ## Dataset
 
-The dataset used is available [here](https://www.kaggle.com/tawsifurrahman/tuberculosis-tb-chest-xray-dataset).
+The TB dataset used is available [here](https://www.kaggle.com/tawsifurrahman/tuberculosis-tb-chest-xray-dataset).
+The pneumonia dataset used is available [here](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
+The covid dataset used is available [here](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
+
+
 
 ## Installing requirements
 Install the dependencies and devDependencies and start the server.
